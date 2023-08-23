@@ -16,11 +16,11 @@ Table of Contents
     # Contributing
     # License
 
-Introduction
+# Introduction
 
 Online advertising is a competitive space, and improving the effectiveness of ads is crucial for success. This project aims to explore different methods to optimize the Click-Through Rate (CTR) of ads, which directly impacts the return on investment (ROI) of advertising campaigns. By experimenting with various optimization strategies and analyzing their impact on CTR, advertisers can make data-driven decisions to enhance the performance of their ads.
 Getting Started
-Prerequisites
+ # Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
 
@@ -47,10 +47,10 @@ Explore various optimization strategies such as:
     Timing and placement optimization
 
 Implement and test these strategies, measuring the impact on CTR and other relevant metrics.
-Contributing
+# Contributing
 
 Contributions to the Ads CTR Optimization project are welcome and encouraged! If you have ideas, bug fixes, or improvements, please follow the contribution guidelines.
-License
+# License
 
 This project is licensed under the MIT License.
 
